@@ -1,0 +1,170 @@
+[
+	{
+		"id": "http://zotero.org/users/local/ZrCg5Awg/items/D4GKAWG5",
+		"type": "book",
+		"abstract": "Today, software engineers need to know not only how to program effectively but also how to develop proper engineering practices to make their codebase sustainable and healthy. This book emphasizes this difference between programming and software engineering.\n\nHow can software engineers manage a living codebase that evolves and responds to changing requirements and demands over the length of its life? Based on their experience at Google, software engineers Titus Winters and Hyrum Wright, along with technical writer Tom Manshreck, present a candid and insightful look at how some of the world’s leading practitioners construct and maintain software. This book covers Google’s unique engineering culture, processes, and tools and how these aspects contribute to the effectiveness of an engineering organization.\n\nYou’ll explore three fundamental principles that software organizations should keep in mind when designing, architecting, writing, and maintaining code:\n\nHow time affects the sustainability of software and how to make your code resilient over time\nHow scale affects the viability of software practices within an engineering organization\nWhat trade-offs a typical engineer needs to make when evaluating design and development decisions",
+		"number-of-pages": "599",
+		"publisher": "O'Reilly",
+		"title": "Software Engineering at Google",
+		"author": [
+			{
+				"family": "Winters",
+				"given": "Titus"
+			},
+			{
+				"family": "Manshreck",
+				"given": "Tom"
+			},
+			{
+				"family": "Wright",
+				"given": "Hyum"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZrCg5Awg/items/IR9KLDM6",
+		"type": "book",
+		"abstract": "\"Plant Factory: An Indoor Vertical Farming System for Efficient Quality Food Production, Second Edition presents a comprehensive look at the implementation of plant factory (PF) practices to yield food crops for both improved food security and environmental sustainability. Edited and authored by leading experts in PF and controlled environment agriculture (CEA), the book is divided into five sections, including an Overview and the Concept of Closed Plant Production Systems (CPPS), the Basics of Physics and Physiology - Environments and Their Effects, System Design, Construction, Cultivation and Management and Plant Factories in Operation\"--",
+		"edition": "2",
+		"event-place": "Cambridge",
+		"ISBN": "978-0-12-816691-8",
+		"publisher": "Elsevier",
+		"publisher-place": "Cambridge",
+		"source": "Library of Congress ISBN",
+		"title": "Plant factory: an indoor vertical farming system for efficient quality food production",
+		"title-short": "Plant factory",
+		"editor": [
+			{
+				"family": "Kozai",
+				"given": "Toyoki"
+			},
+			{
+				"family": "Niu",
+				"given": "Genhua"
+			},
+			{
+				"family": "Takagaki",
+				"given": "Michiko"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZrCg5Awg/items/R4EXXX59",
+		"type": "book",
+		"event-place": "New York, NY",
+		"ISBN": "9789811310645",
+		"publisher": "Springer Berlin Heidelberg",
+		"publisher-place": "New York, NY",
+		"source": "Library of Congress ISBN",
+		"title": "Smart plant factory: the next generation indoor vertical farms",
+		"title-short": "Smart plant factory",
+		"author": [
+			{
+				"family": "Kozai",
+				"given": "Toyoki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZrCg5Awg/items/XFFTFSJC",
+		"type": "book",
+		"edition": "Global edition",
+		"event-place": "Harlow, England London New York",
+		"ISBN": "978-1-292-37634-9",
+		"language": "eng",
+		"number-of-pages": "367",
+		"publisher": "Pearson",
+		"publisher-place": "Harlow, England London New York",
+		"source": "K10plus ISBN",
+		"title": "Engineering software products: an introduction to modern software engineering",
+		"title-short": "Engineering software products",
+		"author": [
+			{
+				"family": "Sommerville",
+				"given": "Ian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZrCg5Awg/items/TP6Z688G",
+		"type": "book",
+		"abstract": "\"In Modern Software Engineering, continuous delivery pioneer David Farley helps software professionals think about their work more effectively, manage it more successfully, and genuinely improve the quality of their applications, their lives, and the lives of their colleagues. Writing for programmers, managers, and technical leads at all levels of experience, Farley illuminates durable principles at the heart of effective software development, He distills the discipline into two core exercises: first, learning and exploration, and second, managing complexity. For each, he defines principles that can help you improve everything from your mindset to the quality of your code, and describes approaches proven to promote success\"--",
+		"edition": "First",
+		"event-place": "Boston",
+		"ISBN": "978-0-13-731491-1",
+		"publisher": "Addison-Wesley",
+		"publisher-place": "Boston",
+		"source": "Library of Congress ISBN",
+		"title": "Modern software engineering: doing what really works to build better software faster",
+		"title-short": "Modern software engineering",
+		"author": [
+			{
+				"family": "Farley",
+				"given": "David"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZrCg5Awg/items/99UJA38N",
+		"type": "book",
+		"edition": "1. ed",
+		"event-place": "Beijing Köln",
+		"ISBN": "978-0-596-15540-7",
+		"language": "eng",
+		"number-of-pages": "318",
+		"publisher": "O'Reilly",
+		"publisher-place": "Beijing Köln",
+		"source": "K10plus ISBN",
+		"title": "Being geek: the software developer's career handbook",
+		"title-short": "Being geek",
+		"author": [
+			{
+				"family": "Lopp",
+				"given": "Michael"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	}
+]
