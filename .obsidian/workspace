@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "2222bbf0215f1e52",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3b0b4cb81c84582",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lectures/Lecture-1/README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c495201febe8f74",
+    "type": "split",
+    "children": [
+      {
+        "id": "46b835b6bca532b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01d0999198996d45",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1dc80ac8fed84f6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "deb2955134ed6e18",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "18b33acb9221d3b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "404059d7b5a35ae2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e529f2eeb10d86e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lectures/Lecture-1/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24796aedcfa70075",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lectures/Lecture-1/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "405406e04b1de2e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b5563ae84644b97c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lectures/Lecture-1/README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a3b0b4cb81c84582",
+  "lastOpenFiles": [
+    "README.md",
+    "Reading Notes/@http___zotero.org_users_local_ZrCg5Awg_items_D4GKAWG5.md",
+    "Lectures/Lecture-1/README.md"
+  ]
+}
