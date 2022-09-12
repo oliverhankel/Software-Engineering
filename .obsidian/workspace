@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lectures/Lecture-1/README.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Lecture-1/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Lecture-1/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Lecture-1/README.md"
+                "file": "README.md"
               }
             }
           }
@@ -130,8 +130,10 @@
   },
   "active": "a3b0b4cb81c84582",
   "lastOpenFiles": [
+    "Reading Notes/Plant factory.pdf",
     "README.md",
-    "Reading Notes/@http___zotero.org_users_local_ZrCg5Awg_items_D4GKAWG5.md",
-    "Lectures/Lecture-1/README.md"
+    "Reading Notes/node-opcuabyexample.pdf",
+    "Lectures/Lecture-1/README.md",
+    "Reading Notes/@http___zotero.org_users_local_ZrCg5Awg_items_D4GKAWG5.md"
   ]
 }
