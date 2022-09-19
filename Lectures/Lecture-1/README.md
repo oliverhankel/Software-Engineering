@@ -46,7 +46,7 @@ Zuerst müssen wir klären, welche Artefakte sich für einen Commit eignen:
 
 ## Warm-up: 
 
-<span style="font-size:larger;">==If it is no fun, we are doing something wrong.== :smirk:</span>
+<span style="font-size:larger;">== If it is no fun, we are doing something wrong. == :smirk:</span>
 
 * [Lasst uns über **Erfolg** reden](Interaction/Was-macht%20Erfolg-aus.md)
 * [Lasst uns über **Sicherheit** reden](Interaction/Eine-Umgebung-in-der-man-sich-sicher-f%C3%BChlt.md)
