@@ -10,6 +10,7 @@
 > Im weiteren Verlauf unseres Kurses werden wir den Umgang mit Git lernen, sobald dieser Prozess aufgesetzt ist, wird dieser Schritt nicht mehr notwendig sein.
 
 3. Importiere die Bibliographie in Zotero:
+
 3.1. Import wählen:
 ![Files - Import](../../../Assets/01-Zotero-Getting-Started.PNG)
 3.2. Bibtex Format auswählen
@@ -21,4 +22,10 @@
 3.5. So sollte der erste Import aussehen:
 ![Result](../../../Assets/05-Zotero-Getting-Started.PNG)
 
-##  
+## Neue Einträge hinzufügen 
+
+
+
+## Mehr Dokumenation
+
+[:link: Für weitere Infos und Inspirationen bitte die Dokumentation von Zotero konsultieren](https://www.zotero.org/support/)
