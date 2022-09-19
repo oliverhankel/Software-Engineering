@@ -2,30 +2,6 @@
 ---
 ```mermaid
 gantt
-    title A Gantt Diagram
-    dateFormat  YYYY-MM-DD
-    section Section
-    A task           :a1, 2014-01-01, 30d
-    Another task     :after a1  , 20d
-    section Another
-    Task in sec      :2014-01-12  , 12d
-    another task      : 24d
-2014-01-05
-2014-01-12
-2014-01-19
-2014-01-26
-2014-02-02
-2014-02-09
-2014-02-16
-A task
-Task in sec
-another task
-Another task
-Section
-Another
-A Gantt Diagram
-Syntax
-gantt
     dateFormat  YYYY-MM-DD
     title       Adding GANTT diagram functionality to mermaid
     excludes    weekends
