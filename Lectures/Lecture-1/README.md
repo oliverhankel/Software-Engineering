@@ -7,7 +7,7 @@
 
 ### Bewerungskritieren für Vorträge
 
-* **Kreativität**: Bitte das Thema recherchieren und mind. zwei Quellen heranziehen. Ausgehend von vielleicht verschiedenen Sichtweisen eine eigene Meinung entwicklen. Das geht natürlich nicht bei allen Themen, dennoch kann man sich immer, die Frage in welchen Szenarien oder für welche Probleme bestimmte Technologien oder Tools anwendbar sind.
+* **Kreativität**: Bitte das Thema recherchieren und mind. zwei Quellen heranziehen. Ausgehend von vielleicht verschiedenen Sichtweisen eine eigene Meinung entwicklen. Das geht natürlich nicht bei allen Themen, dennoch kann man sich immer die Frage stellen, in welchen Szenarien oder für welche Probleme bestimmte Technologien oder Tools anwendbar sind.
 * **Inhalt** 
     * **schlüssig**: Beginne immer mit einer These oder Problemstellung. Ein kleinen Schritten die These bestätigen oder widerlegen bzw. eine Lösung für ein bestimmtes Problem darstellen. Der Fokus muss auf der Eingangsthese oder dem initialen Problem liegen.   
     * **vollständig**: Wann ist schon etwas vollständig? Nichtsdestotrotz auf die Aufgabenstellung achten und die Aufgabenstellung so beantworten, dass Sie selbst Ihre Antworten noch in einem Jahr verstehen werden. ...und bei Fragen fragen.  
