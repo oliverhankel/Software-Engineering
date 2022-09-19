@@ -35,11 +35,25 @@ Zuerst müssen wir klären, welche Artefakte sich für einen Commit eignen:
 3. Modelle
 4. Spezifikation 
 
+**Source Code**: Entspricht den Anforderungen und schafft ein Mehrwert für unsere Software; Ist qualitätsgesichert; Ist gereviewed; Ist dokumentiert; Ist lesbar; Enstpricht den Guidelines; Ist auslieferbar; ...
+
+**Dokumenation**: Ist zielgruppengerecht; Ist einfach verstehbar; Ist lesbar; Entspricht den Guidelines
+
+**Modelle**: Sind verstehbar; Sind lesbar; Entsprechen dem Verhalten, was wir abbilden wollen; Entsprechen den Guidelines
+
+**Spezifikation**: Ist eindeutig; Ist lesbar; Ist verstehbar; Schafft Mehrwert für die Unternehmung; Ist richtig granular
+
 
 ## Warm-up: 
 
+<span style="font-size:larger;">==If it is no fun, we are doing something wrong.== :smirk:</span>
+
+* [Lasst uns über **Erfolg** reden](Interaction/Was-macht%20Erfolg-aus.md)
+* [Lasst uns über **Sicherheit** reden](Interaction/Eine-Umgebung-in-der-man-sich-sicher-f%C3%BChlt.md)
+
+
 ## Was ist Software Engineering?
 
-## Wer und warum kam auf die Software Engineering als Diszplin zu etablieren?
+## Warum wurde Software Engineering als Diszplin etabliert?
 
 
