@@ -54,6 +54,7 @@ Zuerst müssen wir klären, welche Artefakte sich für einen Commit eignen:
 
 ## Was ist Software Engineering?
 
+
 ## Warum wurde Software Engineering als Diszplin etabliert?
 
 
