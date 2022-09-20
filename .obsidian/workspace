@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1fd52fd2bbea2f42",
+        "id": "f25c58585281c7f1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Lectures/Lecture-01/Interaction/Eine-Umgebung-in-der-man-sich-sicher-fühlt.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -57,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 283
   },
   "right": {
     "id": "18b33acb9221d3b8",
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lectures/Lecture-01/Interaction/Eine-Umgebung-in-der-man-sich-sicher-fühlt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lectures/Lecture-01/Interaction/Eine-Umgebung-in-der-man-sich-sicher-fühlt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lectures/Lecture-01/Interaction/Eine-Umgebung-in-der-man-sich-sicher-fühlt.md"
+              }
             }
           }
         ]
@@ -120,16 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1fd52fd2bbea2f42",
+  "active": "f25c58585281c7f1",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Reading notes/@http___zotero.org_users_local_ZrCg5Awg_items_6XJEYKSR.md",
-    "Lectures/Lecture-01/README.md",
     "Reading Notes/@http___zotero.org_users_local_ZrCg5Awg_items_6XJEYKSR.md",
+    "Lectures/Lecture-01/Interaction/Eine-Umgebung-in-der-man-sich-sicher-fühlt.md",
     "README.md",
+    "Lectures/Lecture-01/Was ist Software Engineering.md",
+    "Lectures/Lecture-01/Organisatorisches.md",
+    "Lectures/Lecture-01/Interaction/Was-macht Erfolg-aus.md",
+    "Reading notes/@http___zotero.org_users_local_ZrCg5Awg_items_6XJEYKSR.md",
+    "Lectures/Lecture-01/Interaction/Erster Blick auf Software Engineering.md",
     "Source PDFs/Plant factory.pdf",
-    "Source PDFs/node-opcuabyexample.pdf",
-    "Lectures/Lecture-1/README.md",
-    "Reading Notes/@http___zotero.org_users_local_ZrCg5Awg_items_D4GKAWG5.md"
+    "Source PDFs/node-opcuabyexample.pdf"
   ]
 }
