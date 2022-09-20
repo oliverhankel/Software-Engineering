@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "f25c58585281c7f1",
+        "id": "833634131b063f5e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lectures/Lecture-01/Interaction/Eine-Umgebung-in-der-man-sich-sicher-fühlt.md",
-            "mode": "preview",
+            "file": "README.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Lecture-01/Interaction/Eine-Umgebung-in-der-man-sich-sicher-fühlt.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Lecture-01/Interaction/Eine-Umgebung-in-der-man-sich-sicher-fühlt.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Lecture-01/Interaction/Eine-Umgebung-in-der-man-sich-sicher-fühlt.md"
+                "file": "README.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f25c58585281c7f1",
+  "active": "833634131b063f5e",
   "lastOpenFiles": [
-    "Reading Notes/@http___zotero.org_users_local_ZrCg5Awg_items_6XJEYKSR.md",
-    "Lectures/Lecture-01/Interaction/Eine-Umgebung-in-der-man-sich-sicher-fühlt.md",
+    "Reading Notes/nato1968.PDF",
     "README.md",
-    "Lectures/Lecture-01/Was ist Software Engineering.md",
-    "Lectures/Lecture-01/Organisatorisches.md",
-    "Lectures/Lecture-01/Interaction/Was-macht Erfolg-aus.md",
-    "Reading notes/@http___zotero.org_users_local_ZrCg5Awg_items_6XJEYKSR.md",
-    "Lectures/Lecture-01/Interaction/Erster Blick auf Software Engineering.md",
-    "Source PDFs/Plant factory.pdf",
-    "Source PDFs/node-opcuabyexample.pdf"
+    "Lectures/Lecture-16/Mehrwerte für sich und andere schaffen.md",
+    "Lectures/Lecture-15/Wissen teilen und verbreiten.md",
+    "Lectures/Lecture-14/Produktivitätsmetriken.md",
+    "Lectures/Lecture-13/Container Apps.md",
+    "Lectures/Lecture-12/Statische und dynamische Code Analyse.md",
+    "Lectures/Lecture-11/Build und Deploy Pipelines.md",
+    "Lectures/Lecture-10/Dependency Management.md",
+    "Lectures/Lecture-09/Integration und Regressionstest.md"
   ]
 }
