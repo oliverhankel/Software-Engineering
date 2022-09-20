@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "833634131b063f5e",
+        "id": "1c7485c6bb093f59",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Lectures/Lecture-01/Interaction/Eine-Umgebung-in-der-man-sich-sicher-fühlt.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Lectures/Lecture-01/Interaction/Eine-Umgebung-in-der-man-sich-sicher-fühlt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Lectures/Lecture-01/Interaction/Eine-Umgebung-in-der-man-sich-sicher-fühlt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Lectures/Lecture-01/Interaction/Eine-Umgebung-in-der-man-sich-sicher-fühlt.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "833634131b063f5e",
+  "active": "1c7485c6bb093f59",
   "lastOpenFiles": [
-    "Reading Notes/nato1968.PDF",
+    "Lectures/Lecture-01/Was ist Software Engineering.md",
+    "Lectures/Lecture-01/Interaction/Was-macht Erfolg-aus.md",
+    "Lectures/Lecture-01/Interaction/Eine-Umgebung-in-der-man-sich-sicher-fühlt.md",
+    "Reading notes/@http___zotero.org_users_local_ZrCg5Awg_items_E26NPHBW.md",
+    "Reading Notes/@http___zotero.org_users_local_ZrCg5Awg_items_6XJEYKSR.md",
     "README.md",
+    "Reading Notes/nato1968.PDF",
     "Lectures/Lecture-16/Mehrwerte für sich und andere schaffen.md",
     "Lectures/Lecture-15/Wissen teilen und verbreiten.md",
-    "Lectures/Lecture-14/Produktivitätsmetriken.md",
-    "Lectures/Lecture-13/Container Apps.md",
-    "Lectures/Lecture-12/Statische und dynamische Code Analyse.md",
-    "Lectures/Lecture-11/Build und Deploy Pipelines.md",
-    "Lectures/Lecture-10/Dependency Management.md",
-    "Lectures/Lecture-09/Integration und Regressionstest.md"
+    "Lectures/Lecture-14/Produktivitätsmetriken.md"
   ]
 }

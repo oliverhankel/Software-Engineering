@@ -204,5 +204,79 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZrCg5Awg/items/2REUNC5T",
+		"type": "webpage",
+		"abstract": "Verrückt, diese Welt: Unsere Nahrungsmittel reisen quer um den Globus, und die Transportwege tragen dazu bei, dass wir die Umwelt zerstören, aus der wir ebendiese Nahrungsmittel bekommen. „Aber was – soll ich mir denn jetzt meine Nahrung selbst anbauen?!“, fragst Du Dich? – Ja, genau! Weil das ganz einfach geht. Unser intelligentes Gewächshaus Eden sorgt dafür, das alles klappt und später auch schmeckt. Probiere es aus und rette unsere Welt! Jedenfalls ein kleines Stück weit.\n\nhttps://beyondthescreen.design.haw-hamburg.de/artikel/eden/",
+		"container-title": "podcampus.de",
+		"title": "beyond the screen - MACHEN - Eden, das paradiesisch pflegeleichte Gewächshaus",
+		"URL": "https://www.podcampus.de/nodes/wZVKB",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZrCg5Awg/items/E26NPHBW",
+		"type": "webpage",
+		"abstract": "The Space Shuttle software program can provide guidance to today's projects.",
+		"language": "en",
+		"title": "Learning from the Past to Face the Risks of Today",
+		"URL": "https://cacm.acm.org/magazines/2013/6/164607-learning-from-the-past-to-face-the-risks-of-today/fulltext",
+		"author": [
+			{
+				"family": "Leveson",
+				"given": "Nancy G."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZrCg5Awg/items/JBSLNY8I",
+		"type": "book"
+	},
+	{
+		"id": "http://zotero.org/users/local/ZrCg5Awg/items/9LG347E7",
+		"type": "book",
+		"event-place": "München Wien",
+		"ISBN": "978-3-446-40704-6",
+		"language": "ger",
+		"number-of-pages": "192",
+		"publisher": "Hanser",
+		"publisher-place": "München Wien",
+		"source": "K10plus ISBN",
+		"title": "Der Arschloch-Faktor: vom geschickten Umgang mit Aufschneidern, Intriganten und Despoten im Unternehmen",
+		"title-short": "Der Arschloch-Faktor",
+		"author": [
+			{
+				"family": "Sutton",
+				"given": "Robert I."
+			},
+			{
+				"family": "Sutton",
+				"given": "Robert I."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
 	}
 ]
