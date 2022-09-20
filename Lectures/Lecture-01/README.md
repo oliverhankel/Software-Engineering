@@ -56,7 +56,7 @@ Zuerst müssen wir klären, welche Artefakte sich für einen Commit eignen:
 
 ### Eine kurze Definition
 
-“Software engineering is programming integrated over time.”
+“Software engineering is programming integrated over time.”[^1]
 
 
 ## Eine kurze Geschichte des Software Engineering
@@ -74,3 +74,6 @@ When no one understands every part of the program, how do you diagnose defects?
 When people are working in parallel, how do you prevent them from clobbering each other's work?
 If software engineering is about more than coding, what skills does a good coder need to have?
 What kinds of tools and languages can accelerate a programmers work and help them prevent mistakes?
+
+[^1]:  [[@http___zotero.org_users_local_ZrCg5Awg_items_6XJEYKSR]]
+

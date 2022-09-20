@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c65d49d0a0718cd5",
+        "id": "1fd52fd2bbea2f42",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -120,13 +120,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "01d0999198996d45",
+  "active": "1fd52fd2bbea2f42",
   "lastOpenFiles": [
+    "Untitled.md",
     "Reading notes/@http___zotero.org_users_local_ZrCg5Awg_items_6XJEYKSR.md",
     "Lectures/Lecture-01/README.md",
+    "Reading Notes/@http___zotero.org_users_local_ZrCg5Awg_items_6XJEYKSR.md",
     "README.md",
-    "Reading Notes/Plant factory.pdf",
-    "Reading Notes/node-opcuabyexample.pdf",
+    "Source PDFs/Plant factory.pdf",
+    "Source PDFs/node-opcuabyexample.pdf",
     "Lectures/Lecture-1/README.md",
     "Reading Notes/@http___zotero.org_users_local_ZrCg5Awg_items_D4GKAWG5.md"
   ]
