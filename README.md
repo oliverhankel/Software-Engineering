@@ -13,6 +13,16 @@ Folgende Tools sind verwendet worden:
 
 Status 20.09.2022:  Die Veranstaltungsreihe beginnt am 23.09.2022. und geht bis zum 20.01.2023. Im Laufe des Kurses werden die 16 Lektionen an Substanz gewinnen.
 
+## Lektion 01:
+
+[Organisatorisches möchte geklärt sein](Lectures/Lecture-01/Organisatorisches.md)
+[Was ist Software Engineering](Lectures/Lecture-01/Was%20ist%20Software%20Engineering)
+
+
+## Lektion 02:
+
+
+
 
 ---
 ```mermaid

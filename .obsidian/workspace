@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a0d771d7fac50fca",
+        "id": "d1de682528a2a9f6",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283
+    "width": 268
   },
   "right": {
     "id": "18b33acb9221d3b8",
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a0d771d7fac50fca",
+  "active": "d1de682528a2a9f6",
   "lastOpenFiles": [
-    "Lectures/Lecture-01/Organisatorisches.md",
-    "Lectures/Lecture-01/Geschichtliche Aspekte des Software Engineerings.md",
-    "Lectures/Lecture-02/Dokumentation in Software-Projekten.md",
-    "Lectures/Lecture-01/Was ist Software Engineering.md",
-    "Reading Notes/@http___zotero.org_users_local_ZrCg5Awg_items_6XJEYKSR.md",
     "README.md",
-    "Geschichtliche-Aspekte-des-Software-Engineering.md",
+    "Lectures/Lecture-01/Was ist Software Engineering 1.md",
+    "Lectures/Lecture-01/Organisatorisches.md",
+    "Lectures/Lecture-01/Was ist Software Engineering.md",
+    "Lectures/Lecture-01/Was.md",
     "Lectures/Lecture-01/Interaction/Eine-Umgebung-in-der-man-sich-sicher-fühlt.md",
-    "Lectures/Lecture-01/Interaction/Was-macht Erfolg-aus.md",
-    "Reading notes/@http___zotero.org_users_local_ZrCg5Awg_items_E26NPHBW.md"
+    "Lectures/Lecture-01/Geschichtliche Aspekte des Software Engineerings.md",
+    "Reading Notes/nato1968.PDF",
+    "Reading Notes/361598.361623.pdf",
+    "Reading notes/@http___zotero.org_users_local_ZrCg5Awg_items_BNHP8329.md"
   ]
 }
