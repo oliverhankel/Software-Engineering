@@ -246,10 +246,6 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/ZrCg5Awg/items/JBSLNY8I",
-		"type": "book"
-	},
-	{
 		"id": "http://zotero.org/users/local/ZrCg5Awg/items/9LG347E7",
 		"type": "book",
 		"event-place": "München Wien",
@@ -275,6 +271,104 @@
 			"date-parts": [
 				[
 					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZrCg5Awg/items/BD79TDHE",
+		"type": "webpage",
+		"title": "The history of software engineering",
+		"URL": "https://andrewbegel.com/info461/readings/history.html",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZrCg5Awg/items/DTAC69MG",
+		"type": "webpage",
+		"abstract": "For the last 50 years, software engineering has had an interesting trip and has become a vital part of shaping and maintaining the world. Take a look at the full software engineering timeline in our blog!",
+		"language": "en-US",
+		"title": "The history of coding and software engineering",
+		"URL": "https://www.hackreactor.com/blog/the-history-of-coding-and-software-engineering",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZrCg5Awg/items/DZSUXBRS",
+		"type": "article-journal",
+		"language": "en",
+		"page": "136",
+		"source": "Zotero",
+		"title": "NATO SOFTWARE ENGINEERING CONFERENCE 1968",
+		"author": [
+			{
+				"family": "McClure",
+				"given": "Robert M"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1968"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZrCg5Awg/items/YQZBEHTX",
+		"type": "entry-encyclopedia",
+		"abstract": "The history of the personal computer as a mass-market consumer electronic device began with the microcomputer revolution of the 1970s.  A personal computer is one intended for interactive individual use, as opposed to a mainframe computer where the end user's requests are filtered through operating staff, or a time-sharing system in which one large processor is shared by many individuals. After the development of the microprocessor, individual personal computers were low enough in cost that they eventually became affordable consumer goods. Early personal computers – generally called microcomputers – were sold often in electronic kit form and in limited numbers, and were of interest mostly to hobbyists and technicians.",
+		"container-title": "Wikipedia",
+		"language": "en",
+		"license": "Creative Commons Attribution-ShareAlike License",
+		"note": "Page Version ID: 1106259576",
+		"source": "Wikipedia",
+		"title": "History of personal computers",
+		"URL": "https://en.wikipedia.org/w/index.php?title=History_of_personal_computers&oldid=1106259576",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZrCg5Awg/items/BNHP8329",
+		"type": "document",
+		"title": "ARPANET_final.pdf",
+		"URL": "https://www.darpa.mil/attachments/ARPANET_final.pdf",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					21
 				]
 			]
 		}

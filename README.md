@@ -8,7 +8,8 @@ Folgende Tools sind verwendet worden:
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Obsidian](https://obsidian.md/)
 - [Zotero](https://www.zotero.org/)
--  ... more to come
+-  [Mermaid](https://mermaid-js.github.io/mermaid/#/)
+- ... more to come
 
 Status 20.09.2022:  Die Veranstaltungsreihe beginnt am 23.09.2022. und geht bis zum 20.01.2023. Im Laufe des Kurses werden die 16 Lektionen an Substanz gewinnen.
 
