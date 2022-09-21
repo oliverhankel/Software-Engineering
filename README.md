@@ -16,7 +16,8 @@ Status 20.09.2022:  Die Veranstaltungsreihe beginnt am 23.09.2022. und geht bis 
 ## Lektion 01:
 
 [Organisatorisches möchte geklärt sein](Lectures/Lecture-01/Organisatorisches.md)
-[Was ist Software Engineering](Lectures/Lecture-01/Was%20ist%20Software%20Engineering)
+
+[Was ist Software Engineering](Lectures/Lecture-01/Was%20ist%20Software%20Engineering.md)
 
 
 ## Lektion 02:
