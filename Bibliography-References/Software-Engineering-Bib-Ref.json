@@ -372,5 +372,66 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZrCg5Awg/items/U7329I64",
+		"type": "entry-encyclopedia",
+		"abstract": "Peter Gabriel Neumann (born 1932) is a computer-science researcher who worked on the Multics operating system in the 1960s. He edits the RISKS Digest columns for ACM Software Engineering Notes and Communications of the ACM. He founded ACM SIGSOFT and is a Fellow of the ACM, IEEE, and AAAS.",
+		"container-title": "Wikipedia",
+		"language": "en",
+		"license": "Creative Commons Attribution-ShareAlike License",
+		"note": "Page Version ID: 1105646005",
+		"source": "Wikipedia",
+		"title": "Peter G. Neumann",
+		"URL": "https://en.wikipedia.org/w/index.php?title=Peter_G._Neumann&oldid=1105646005",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/ZrCg5Awg/items/MEAWCPF9",
+		"type": "motion_picture",
+		"dimensions": "1:05:50",
+		"source": "YouTube",
+		"title": "\"History of Software Engineering\" with Grady Booch",
+		"URL": "https://www.youtube.com/watch?v=QUz10Z1AfLc",
+		"director": [
+			{
+				"literal": "Association for Computing Machinery (ACM)"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					22
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					5,
+					30
+				]
+			]
+		}
 	}
 ]
