@@ -11,7 +11,7 @@ Folgende Tools sind verwendet worden:
 -  [Mermaid](https://mermaid-js.github.io/mermaid/#/)
 - ... more to come
 
-Status 20.09.2022:  Die Veranstaltungsreihe beginnt am 23.09.2022. und geht bis zum 20.01.2023. Im Laufe des Kurses werden die 16 Lektionen an Substanz gewinnen.
+Status 22.09.2022:  Die Veranstaltungsreihe beginnt am 23.09.2022. und geht bis zum 20.01.2023. Im Laufe des Kurses werden die 16 Lektionen an Substanz gewinnen.
 
 ## Lektion 01:
 
@@ -109,7 +109,7 @@ gantt
     Dependency Management     :         des18, 2022-11-25, 5d
     Build und Deploy          :         des19, 2022-12-02, 5d
     Code Analyse              :         des20, 2022-12-09, 5d   
-    Container Apps            :         des21, 2022-12-, 5d  
+    Container Apps            :         des21, 2022-12-16, 5d  
            
 
     section Notationssprachen
