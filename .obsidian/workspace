@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "290cfec654807c0b",
+        "id": "df1cd98bafaffe0b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -120,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "290cfec654807c0b",
+  "active": "df1cd98bafaffe0b",
   "lastOpenFiles": [
+    "Lectures/Lecture-04/UML - SysML.md",
+    "README.md",
+    "Lectures/Lecture-03/UML - Use Cases - Verhaltensdiagramme.md",
+    "Lecture-03/UML - Use Cases - Verhaltensdiagramme.md",
+    "Lecture-03/UML - Use Cases %26 Verhaltensdiagramme.md",
+    "Lectures/Lecture-02/Dokumentation in Software-Projekten.md",
     "Lectures/Lecture-01/Geschichtliche Aspekte des Software Engineerings.md",
     "Lectures/Lecture-01/Was ist Software Engineering.md",
-    "README.md",
     "Lectures/Lecture-01/Was ist Software Engineering,md.md",
-    "Lectures/Lecture-01/Was ist Software Engineering 1.md",
-    "Lectures/Lecture-01/Organisatorisches.md",
-    "Lectures/Lecture-01/Was.md",
-    "Lectures/Lecture-01/Interaction/Eine-Umgebung-in-der-man-sich-sicher-fühlt.md",
-    "Reading Notes/nato1968.PDF",
-    "Reading Notes/361598.361623.pdf"
+    "Lectures/Lecture-01/Was ist Software Engineering 1.md"
   ]
 }
