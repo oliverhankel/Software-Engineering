@@ -18,5 +18,6 @@
 4. Für uns interessant: https://daringfireball.net/projects/markdown/
 5. https://docusaurus.io/
 6. https://www.arc42.de/overview/
+7. Chapter 2. Behavior-Driven Development as an Example of Living Specifications in "Living Documentation: Continuous Knowledge Sharing by Design, First Edition" von Cyrille Martraire
 
 
