@@ -10,10 +10,13 @@
 * Welche Tools sollten wir für unser Projekt verwenden?
 
 
-## UML - Der Anfang
+**Mögliche Quellen:**
 
-**Ziele**
-* Warum gibt es UML? 
-* Wie ist der aktuelle Stand? 
-* Welche Diagrammtypen gibt es und wofür sind diese zu verwenden?
+1. Chapter 10. Documentation in "Software Engineering at Google" von Titus Winters et. al.
+2. https://www.youtube.com/watch?v=EnB8GtPuauw
+3. https://www.writethedocs.org/guide/docs-as-code/
+4. Für uns interessant: https://daringfireball.net/projects/markdown/
+5. https://docusaurus.io/
+6. https://www.arc42.de/overview/
+
 

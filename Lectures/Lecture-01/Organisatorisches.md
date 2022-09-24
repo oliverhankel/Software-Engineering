@@ -37,7 +37,7 @@ Zuerst müssen wir klären, welche Artefakte sich für einen Commit eignen:
 
 **Source Code**: Entspricht den Anforderungen und schafft ein Mehrwert für unsere Software; Ist qualitätsgesichert; Ist gereviewed; Ist dokumentiert; Ist lesbar; Enstpricht den Guidelines; Ist auslieferbar; ...
 
-**Dokumenation**: Ist zielgruppengerecht; Ist einfach verstehbar; Ist lesbar; Entspricht den Guidelines
+**Dokumentation**: Ist zielgruppengerecht; Ist einfach verstehbar; Ist lesbar; Entspricht den Guidelines
 
 **Modelle**: Sind verstehbar; Sind lesbar; Entsprechen dem Verhalten, was wir abbilden wollen; Entsprechen den Guidelines
 
