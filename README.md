@@ -1,6 +1,6 @@
 # Einführung in Software Engineering (für Interessierte)
 
-Im Rahmen einer Wahlpflichtveranstaltung stelle ich auf Github die Unterrichtsmaterialien sowie die teilweise die Unterrichtsmethodik zur Verfügung.
+Im Rahmen einer Wahlpflichtveranstaltung stelle ich auf Github die Unterrichtsmaterialien sowie teilweise die Unterrichtsmethodik zur Verfügung.
 
 Folgende Tools sind verwendet worden:
 
