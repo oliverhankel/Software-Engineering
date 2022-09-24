@@ -26,6 +26,6 @@
 
 
 
-## Mehr Dokumenation
+## Mehr Dokumentation
 
 [:link: Für weitere Infos und Inspirationen bitte die Dokumentation von Zotero konsultieren](https://www.zotero.org/support/)

@@ -39,9 +39,9 @@ Die hier aufgeführten Punkte mündeten in den Entwicklungen, die in den folgene
 In den folgenden 60 Jahren haben sich die Methoden, Prozesse und Tools entwickelt, die wir in diesen Lektionen durchgehen wollen.
 
 
-## 1970er : Unix & erste "Hochsprachen" & der erste PC 
+## 1970er: Unix & erste "Hochsprachen" & der erste PC 
 
-Ab 1970 gibt es die Sprache Pascal, bei der es Datenstrukturen/typen gibt und strukturierte Programmierung unterstützt.  Entwickelt wurde sie von Nicklaus Wirth.
+Ab 1970 gibt es die Sprache Pascal, bei der es Datenstrukturen/typen gibt und strukturierte Programmierung unterstützt. Entwickelt wurde sie von Nicklaus Wirth.
 
 1972 war ein großartiges Jahr: Die Programmiersprache C und Unix traten ins Licht der Welt
 
@@ -50,17 +50,17 @@ Ab 1970 gibt es die Sprache Pascal, bei der es Datenstrukturen/typen gibt und st
 Ende der 1970er konnte man bereits Computer Engineering an der Seattle University studieren.
 
 
-## 1980er : OO & CASE & Internet
+## 1980er: OO & CASE & Internet
 
-Lass uns die 80er kurz zusammenfassen: Die Idee der objekt orientierten Sprachen wurde geboren (Ada). 
+Lass uns die 80er kurz zusammenfassen: Die Idee der objekt-orientierten Sprachen wurde geboren (Ada). 
 
 Und was noch viel spannender ist: CASE Tools wurden zum erste Mal eingesetzt: [Computer-Aided-Software Engineering](https://www.umsl.edu/~sauterv/analysis/F08papers/View.html)
 
 
-Das Arpanet, der Vorgänger des Internet, bekam TCP/IP.[^2]
+Das Arpanet, der Vorgänger des Internets, bekam TCP/IP.[^2]
 
 
-## 1990er : WWW & Noch mehr "Hochsprachen" & XP
+## 1990er: WWW & Noch mehr "Hochsprachen" & XP
 
 Die 90er sind geprägt von dem Erscheinen der ersten Internettechnologien. 
 Allen voran wird zum ersten Mal das Protokoll HTTP - entwickelt von Tim Berners-Lee - genutzt. 
@@ -69,7 +69,7 @@ Java wird als Sprache entwickelt und dann kommt auch noch Javascript dazu, die a
 Ende der 90er entwickelt Kent Beck die ersten Ideen, wie man mit schnell ändernden Kundernanforderungen umgehen kann. Er nennt es *extreme Programming*.
 
 
-## 2000er : Agile (Leichtgewichtige Software-Entwicklung)
+## 2000er: Agile (Leichtgewichtige Software-Entwicklung)
 
 In 2001 wurde das [Agile Manifest](https://agilemanifesto.org/) formuliert.
 
@@ -79,14 +79,14 @@ Später wurden die Inhalte des SWEBOK in das ISO Format [197559:2015](https://ww
 
 ## 2010er: Cloud & die Rückkehr von AI
 
-Was soll zu den letzten zehn Jahren sagen? Die Virtualisierung ist vorangeschritten und endet damit, dass mitllerweile auch die Infrastruktur virtualisiert worden ist. Dies nennen wir Cloud.
+Was soll zu den letzten zehn Jahren sagen? Die Virtualisierung ist vorangeschritten und endet damit, dass mittlerweile auch die Infrastruktur virtualisiert worden ist. Dies nennen wir Cloud.
 
-Anfang der 2000er war man der Meinung, dass die Verwendung der neuronale Netze zur Schaffung von künstlicher Intellegenz aufgrund von fehlender Rechenleistung und mangelnder Daten nichts taugt. Doch dank der großen Tech-Konzerne, die einen Haufen Daten sammeln, die riesige Rechenzentren geschaffen haben und mit Hilfe der Chiphersteller ein unglaubliche Rechenleistung zur Verfügung stellen, wurde mit Hilfe von Machine Learning gerade im Bereich Objekterkennung, Computer Vision und Sprachverarbeitung unglaubliches geleistet. AI war also doch nicht tot.
+Anfang der 2000er war man der Meinung, dass die Verwendung der neuronalen Netze zur Schaffung von künstlicher Intelligenz aufgrund von fehlender Rechenleistung und mangelnder Daten nichts taugt. Doch dank der großen Tech-Konzerne, die einen Haufen Daten sammeln, die riesige Rechenzentren geschaffen und mithilfe der Chiphersteller eine unglaubliche Rechenleistung zur Verfügung stellt haben, wurde gerade im Bereich Objekterkennung, Computer Vision und Sprachverarbeitung unglaubliches geleistet. AI war also doch nicht tot.
 
 Das nächste große Ding wird aber Quantencomputing sein. 
 
 Wir können festhalten, die Kernprobleme haben sich in den letzten 60 Jahren nicht verändert (Hardware-Entwicklung vs. Software-Entwicklung, Qualitätssicherung, Handhabung von komplexer Software). 
-Es hat sich nicht gezeigt, dass keine generelle Lösung gibt, die anwendbar, um alle Software Engineering Aufgaben auf einmal zu lösen. Vielmehr ist Software Engineering eine Ingenieursdiszipln wie jede andere auch.
+Es hat sich nicht gezeigt, dass keine generelle Lösung gibt, die anwendbar, um alle Software Engineering Aufgaben auf einmal zu lösen. Vielmehr ist Software Engineering eine Ingenieursdisziplin, wie jede andere auch.
 
 
 

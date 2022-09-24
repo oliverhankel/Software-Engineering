@@ -43,8 +43,8 @@ Sie glauben, dass andere kompetent sind und das Richtige tun werden, und es ist 
 Bei einer Betrachtung von fehlgeschlagener Kommunikation, fehlgeschlagenen Projekten und verfehlten Zielen, dann kommt bei einer Ursachenanalyse darauf, dass im Umgang miteinander, diese oben genannten Aspekte der sozialen Interaktion nicht eingehalten worden sind.[^3]
 
 
-Ohne eine gelungende soziale Interaktion, wird es keine gesunde Arbeitsumgebung, in der man sich wohlfühlt geben. 
-Keine Sicherheit in der Arbeit, bedeutet kein **Fun**. 
+Ohne eine gelungene soziale Interaktion, wird es keine gesunde Arbeitsumgebung, in der man sich wohlfühlt, geben. 
+Keine Sicherheit an der Arbeit bedeutet kein **Fun**. 
 > If it is no fun, we are doing something wrong.
 
 
@@ -54,7 +54,7 @@ Folgender Text kann zur Vertiefung gelesen werden:
 
 > The goal was not to blame people for mistakes but instead to blame the process.[^2]
 
-Folgendes Buch stellt eine wunderbare Zusammenfassung dar, wie man frühzeitig erkennt, wer dazu beiträgt, dass man sich in Unternehmen oder in seiner Arbeitsumgebung nicht sicherfühlt:
+Folgendes Buch stellt eine wunderbare Zusammenfassung dar, wie man frühzeitig erkennt, wer dazu beiträgt, dass man sich in Unternehmen oder in seiner Arbeitsumgebung nicht sicher fühlt:
 
 *Der Arschloch-Faktor* von Robert I. Sutton[^4]
 

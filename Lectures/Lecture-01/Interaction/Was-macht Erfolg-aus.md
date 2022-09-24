@@ -1,5 +1,5 @@
 # Was sind unbedingte Erfolgsfaktoren?
-## Übung 1:  Beschreibe eine Situation aus Deiner Vergangenheit, in der Du Erfolg hattest
+## Übung 1: Beschreibe eine Situation aus Deiner Vergangenheit, in der Du Erfolg hattest
 Nimm Dir **10 Minuten Zeit** und denke darüber nach, in welcher Situation Du in der Vergangenheit Erfolg hattest. Das kann eine Sportveranstaltung gewesen sein, das kann eine Klausur gewesen sein oder auch ein Vortrag, den Du gehalten hast. 
 
 Notiere, was den Erfolg ausgemacht hat.
@@ -29,6 +29,6 @@ Rückfragen und kurze Diskussionen sind explizit erlaubt.
 Bei der Vorstellung ruhig die Beispiele aus Übung 1 einbeziehen, sofern diese vorgestellt werden dürfen 😏
 
 ## Übung 5: Clustern der Ergebnisse
-Im Plenum fassen wir die Ergebnisse zusammen und erarbeiten die ausschlaggebenden Faktorn für Erfolg gemeinsam.
+Im Plenum fassen wir die Ergebnisse zusammen und erarbeiten die ausschlaggebenden Faktoren für Erfolg gemeinsam.
 Seit Euch sicher, dass die so erarbeiteten Faktoren, sich in jedem Software Engineering Prozess wiederfinden lassen.
 
