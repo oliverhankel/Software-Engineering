@@ -5,7 +5,7 @@
 ### Leistungserbringung und -bewertung
  > Je nachdem welche Rolle Sie in unserem Vorhaben einnehmen, werden Sie Konzepte, Modelle oder Source Code erstellen. Die Leistung wird durch erfolgte Verschriftlichung und/oder Vorträge des ausgesuchten Themas bewertet.
 
-### Bewerungskritieren für Vorträge
+### Bewertungskriterien für Vorträge
 
 * **Kreativität**: Bitte das Thema recherchieren und mindestens zwei Quellen heranziehen. Ausgehend von vielleicht verschiedenen Sichtweisen kann eine eigene Meinung entwickelt werden. Das geht natürlich nicht bei allen Themen, dennoch kann man sich immer die Frage stellen, in welchen Szenarien oder für welche Probleme bestimmte Technologien oder Tools anwendbar sind.
 * **Inhalt** 

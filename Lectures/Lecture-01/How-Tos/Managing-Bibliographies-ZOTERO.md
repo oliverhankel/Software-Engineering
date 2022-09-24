@@ -28,4 +28,4 @@
 
 ## Mehr Dokumentation
 
-[:link: Für weitere Infos und Inspirationen bitte die Dokumentation von Zotero konsultieren](https://www.zotero.org/support/)
+[:link: Für weitere Informationen und Inspirationen bitte die Dokumentation von Zotero konsultieren](https://www.zotero.org/support/)
