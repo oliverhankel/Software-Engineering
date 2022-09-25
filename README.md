@@ -1,4 +1,4 @@
-# Einführung in Software Engineering (für Interessierte)
+# Einführung in Software-Engineering (für Interessierte)
 
 Im Rahmen einer Wahlpflichtveranstaltung stelle ich auf Github die Unterrichtsmaterialien sowie teilweise die Unterrichtsmethodik zur Verfügung.
 
@@ -9,13 +9,13 @@ Folgende Tools sind verwendet worden:
 - [Obsidian](https://obsidian.md/)
 - [Zotero](https://www.zotero.org/)
 -  [Mermaid](https://mermaid-js.github.io/mermaid/#/)
-- ... more to come
+- … more to come
 
 ## Lektion 01:
 
 [Organisatorisches möchte geklärt sein](Lectures/Lecture-01/Organisatorisches.md)
 
-[Was ist Software Engineering](Lectures/Lecture-01/Was%20ist%20Software%20Engineering.md)
+[Was ist Software-Engineering](Lectures/Lecture-01/Was%20ist%20Software%20Engineering.md)
 
 
 
@@ -26,11 +26,11 @@ Folgende Tools sind verwendet worden:
 
 ## Lektion 03:
 
-[UML - Verhalten](Lectures/Lecture-03/UML%20-%20Use%20Cases%20-%20Verhaltensdiagramme.md)
+[UML — Verhalten](Lectures/Lecture-03/UML%20-%20Use%20Cases%20-%20Verhaltensdiagramme.md)
 
 ## Lektion 04:
 
-[UML vs SysML](Lectures/Lecture-04/UML%20-%20SysML.md)
+[UML vs. SysML](Lectures/Lecture-04/UML%20-%20SysML.md)
 
 ## Lektion 05:
 
@@ -46,7 +46,7 @@ Folgende Tools sind verwendet worden:
 
 ## Lektion 08:
 
-[Unit Tests](Lectures/Lecture-08/Unit%20Test%20Me.md)
+[Unit-Tests](Lectures/Lecture-08/Unit%20Test%20Me.md)
 
 ## Lektion 09: 
 

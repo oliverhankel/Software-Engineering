@@ -1,0 +1,8 @@
+{
+    "languageToolLinter.languageTool.ignoredWordsInWorkspace": [
+        "dependency",
+        "deploy",
+        "mermaid",
+        "sysml"
+    ]
+}
