@@ -1,6 +1,7 @@
 # Einführung in Software-Engineering (für Interessierte)
 
-Im Rahmen einer Wahlpflichtveranstaltung stelle ich auf Github die Unterrichtsmaterialien sowie teilweise die Unterrichtsmethodik zur Verfügung.
+Software-Engineering ist ein sehr weites Feld, das einige Spezialisierungen hervorgebracht hat.
+In den Lektionen finden sich Ansätze, wie man sich der Diszpling Software-Engineering pragmatisch nähern kann.
 
 Folgende Tools sind verwendet worden:
 
@@ -21,7 +22,9 @@ Folgende Tools sind verwendet worden:
 
 ## Lektion 02:
 
-[Dokumentation in Software-Projekten](Lectures/Lecture-02/Dokumentation%20in%20Software-Projekten.md)[UML I: Einführung](Lectures/Lecture-02/UML-I-Einf%C3%BChrung.md)
+[Dokumentation in Software-Projekten](Lectures/Lecture-02/Dokumentation%20in%20Software-Projekten.md)
+
+[UML I: Einführung](Lectures/Lecture-02/UML-I-Einf%C3%BChrung.md)
 
 
 ## Lektion 03:

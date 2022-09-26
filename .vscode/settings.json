@@ -1,8 +1,11 @@
 {
     "languageToolLinter.languageTool.ignoredWordsInWorkspace": [
+        "cmd",
         "dependency",
         "deploy",
+        "docusaurus",
         "mermaid",
+        "powershell",
         "sysml"
     ]
 }
