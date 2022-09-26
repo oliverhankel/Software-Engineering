@@ -1,2 +1,3 @@
 Source PDFs/
-.temp/*
+.temp/
+*.pptx
