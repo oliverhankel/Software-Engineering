@@ -1,6 +1,6 @@
 [
 	{
-		"id": "http://zotero.org/users/local/ZrCg5Awg/items/6XJEYKSR",
+		"id": "http://zotero.org/users/local/W2yZdvDF/items/P498G2S9",
 		"type": "book",
 		"abstract": "Today, software engineers need to know not only how to program effectively but also how to develop proper engineering practices to make their codebase sustainable and healthy. This book emphasizes this difference between programming and software engineering.\n\nHow can software engineers manage a living codebase that evolves and responds to changing requirements and demands over the length of its life? Based on their experience at Google, software engineers Titus Winters and Hyrum Wright, along with technical writer Tom Manshreck, present a candid and insightful look at how some of the world’s leading practitioners construct and maintain software. This book covers Google’s unique engineering culture, processes, and tools and how these aspects contribute to the effectiveness of an engineering organization.\n\nYou’ll explore three fundamental principles that software organizations should keep in mind when designing, architecting, writing, and maintaining code:\n\nHow time affects the sustainability of software and how to make your code resilient over time\nHow scale affects the viability of software practices within an engineering organization\nWhat trade-offs a typical engineer needs to make when evaluating design and development decisions",
 		"number-of-pages": "599",
@@ -30,7 +30,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/ZrCg5Awg/items/XGPRZWR6",
+		"id": "http://zotero.org/users/local/W2yZdvDF/items/KT6PHH9N",
 		"type": "book",
 		"abstract": "\"Plant Factory: An Indoor Vertical Farming System for Efficient Quality Food Production, Second Edition presents a comprehensive look at the implementation of plant factory (PF) practices to yield food crops for both improved food security and environmental sustainability. Edited and authored by leading experts in PF and controlled environment agriculture (CEA), the book is divided into five sections, including an Overview and the Concept of Closed Plant Production Systems (CPPS), the Basics of Physics and Physiology - Environments and Their Effects, System Design, Construction, Cultivation and Management and Plant Factories in Operation\"--",
 		"edition": "2",
@@ -64,7 +64,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/ZrCg5Awg/items/F4TXBIGH",
+		"id": "http://zotero.org/users/local/W2yZdvDF/items/556WKELR",
 		"type": "book",
 		"event-place": "New York, NY",
 		"ISBN": "9789811310645",
@@ -88,7 +88,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/ZrCg5Awg/items/H7GSBYWF",
+		"id": "http://zotero.org/users/local/W2yZdvDF/items/VJHLNSHW",
 		"type": "book",
 		"edition": "Global edition",
 		"event-place": "Harlow, England London New York",
@@ -115,7 +115,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/ZrCg5Awg/items/XSLJYANU",
+		"id": "http://zotero.org/users/local/W2yZdvDF/items/BYZHX6LS",
 		"type": "book",
 		"abstract": "\"In Modern Software Engineering, continuous delivery pioneer David Farley helps software professionals think about their work more effectively, manage it more successfully, and genuinely improve the quality of their applications, their lives, and the lives of their colleagues. Writing for programmers, managers, and technical leads at all levels of experience, Farley illuminates durable principles at the heart of effective software development, He distills the discipline into two core exercises: first, learning and exploration, and second, managing complexity. For each, he defines principles that can help you improve everything from your mindset to the quality of your code, and describes approaches proven to promote success\"--",
 		"edition": "First",
@@ -141,7 +141,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/ZrCg5Awg/items/I8GBLDYQ",
+		"id": "http://zotero.org/users/local/W2yZdvDF/items/397794S8",
 		"type": "book",
 		"edition": "1. ed",
 		"event-place": "Beijing Köln",
@@ -168,7 +168,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/ZrCg5Awg/items/Z2IYQG3D",
+		"id": "http://zotero.org/users/local/W2yZdvDF/items/NCK4NALC",
 		"type": "webpage",
 		"abstract": "We usually perceive that it costs more to get higher quality, but software internal quality actually reduces costs.",
 		"container-title": "martinfowler.com",
@@ -191,7 +191,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/ZrCg5Awg/items/VG6ZI7M7",
+		"id": "http://zotero.org/users/local/W2yZdvDF/items/VPMMSYIJ",
 		"type": "webpage",
 		"title": "ICSE Home Page",
 		"URL": "http://www.icse-conferences.org/",
@@ -206,7 +206,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/ZrCg5Awg/items/2REUNC5T",
+		"id": "http://zotero.org/users/local/W2yZdvDF/items/KT6SSSLD",
 		"type": "webpage",
 		"abstract": "Verrückt, diese Welt: Unsere Nahrungsmittel reisen quer um den Globus, und die Transportwege tragen dazu bei, dass wir die Umwelt zerstören, aus der wir ebendiese Nahrungsmittel bekommen. „Aber was – soll ich mir denn jetzt meine Nahrung selbst anbauen?!“, fragst Du Dich? – Ja, genau! Weil das ganz einfach geht. Unser intelligentes Gewächshaus Eden sorgt dafür, das alles klappt und später auch schmeckt. Probiere es aus und rette unsere Welt! Jedenfalls ein kleines Stück weit.\n\nhttps://beyondthescreen.design.haw-hamburg.de/artikel/eden/",
 		"container-title": "podcampus.de",
@@ -223,7 +223,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/ZrCg5Awg/items/E26NPHBW",
+		"id": "http://zotero.org/users/local/W2yZdvDF/items/A47BZVLR",
 		"type": "webpage",
 		"abstract": "The Space Shuttle software program can provide guidance to today's projects.",
 		"language": "en",
@@ -246,7 +246,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/ZrCg5Awg/items/9LG347E7",
+		"id": "http://zotero.org/users/local/W2yZdvDF/items/E69IKLKA",
 		"type": "book",
 		"event-place": "München Wien",
 		"ISBN": "978-3-446-40704-6",
@@ -276,7 +276,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/ZrCg5Awg/items/BD79TDHE",
+		"id": "http://zotero.org/users/local/W2yZdvDF/items/33SFJM9L",
 		"type": "webpage",
 		"title": "The history of software engineering",
 		"URL": "https://andrewbegel.com/info461/readings/history.html",
@@ -291,7 +291,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/ZrCg5Awg/items/DTAC69MG",
+		"id": "http://zotero.org/users/local/W2yZdvDF/items/RHJCZBSI",
 		"type": "webpage",
 		"abstract": "For the last 50 years, software engineering has had an interesting trip and has become a vital part of shaping and maintaining the world. Take a look at the full software engineering timeline in our blog!",
 		"language": "en-US",
@@ -308,7 +308,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/ZrCg5Awg/items/DZSUXBRS",
+		"id": "http://zotero.org/users/local/W2yZdvDF/items/KJA99CYQ",
 		"type": "article-journal",
 		"language": "en",
 		"page": "136",
@@ -329,7 +329,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/ZrCg5Awg/items/YQZBEHTX",
+		"id": "http://zotero.org/users/local/W2yZdvDF/items/IIN8GF48",
 		"type": "entry-encyclopedia",
 		"abstract": "The history of the personal computer as a mass-market consumer electronic device began with the microcomputer revolution of the 1970s.  A personal computer is one intended for interactive individual use, as opposed to a mainframe computer where the end user's requests are filtered through operating staff, or a time-sharing system in which one large processor is shared by many individuals. After the development of the microprocessor, individual personal computers were low enough in cost that they eventually became affordable consumer goods. Early personal computers – generally called microcomputers – were sold often in electronic kit form and in limited numbers, and were of interest mostly to hobbyists and technicians.",
 		"container-title": "Wikipedia",
@@ -359,7 +359,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/ZrCg5Awg/items/BNHP8329",
+		"id": "http://zotero.org/users/local/W2yZdvDF/items/29EMX728",
 		"type": "document",
 		"title": "ARPANET_final.pdf",
 		"URL": "https://www.darpa.mil/attachments/ARPANET_final.pdf",
@@ -374,7 +374,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/ZrCg5Awg/items/U7329I64",
+		"id": "http://zotero.org/users/local/W2yZdvDF/items/83UMLDVZ",
 		"type": "entry-encyclopedia",
 		"abstract": "Peter Gabriel Neumann (born 1932) is a computer-science researcher who worked on the Multics operating system in the 1960s. He edits the RISKS Digest columns for ACM Software Engineering Notes and Communications of the ACM. He founded ACM SIGSOFT and is a Fellow of the ACM, IEEE, and AAAS.",
 		"container-title": "Wikipedia",
@@ -404,7 +404,7 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/local/ZrCg5Awg/items/MEAWCPF9",
+		"id": "http://zotero.org/users/local/W2yZdvDF/items/WCDANZJJ",
 		"type": "motion_picture",
 		"dimensions": "1:05:50",
 		"source": "YouTube",
@@ -430,6 +430,154 @@
 					"2018",
 					5,
 					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W2yZdvDF/items/IEXMI7JX",
+		"type": "webpage",
+		"title": "Software-Engineering/Managing-Bibliographies-ZOTERO.md at main · oliverhankel/Software-Engineering · GitHub",
+		"URL": "https://github.com/oliverhankel/Software-Engineering/blob/main/Lectures/Lecture-01/How-Tos/Managing-Bibliographies-ZOTERO.md",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W2yZdvDF/items/IVSF9JD6",
+		"type": "webpage",
+		"abstract": "Der Erfolg der Apollo-Missionen beruht auf den Berechnungen unzähliger Frauen. Auch die ersten Programmiererinnen rund um die Mond-Missionen waren Frauen – und ihr Code war erstaunlich raffiniert, sogar wenn man ihn mit heutiger Software vergleicht.",
+		"container-title": "RiffReporter",
+		"language": "de",
+		"note": "section: Wissen",
+		"title": "Pionierinnen der Mondlandung",
+		"URL": "https://www.riffreporter.de/de/wissen/pionierinnen-der-mondlandung",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					6,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W2yZdvDF/items/55HWG52Q",
+		"type": "book",
+		"call-number": "QA76.76.D47 B655 1999",
+		"collection-title": "The Addison-Wesley object technology series",
+		"event-place": "Reading Mass",
+		"ISBN": "978-0-201-57168-4",
+		"language": "en",
+		"number-of-pages": "482",
+		"publisher": "Addison-Wesley",
+		"publisher-place": "Reading Mass",
+		"source": "Library of Congress ISBN",
+		"title": "The unified modeling language user guide",
+		"author": [
+			{
+				"family": "Booch",
+				"given": "Grady"
+			},
+			{
+				"family": "Rumbaugh",
+				"given": "James"
+			},
+			{
+				"family": "Jacobson",
+				"given": "Ivar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W2yZdvDF/items/ZMVSP7L9",
+		"type": "book",
+		"call-number": "QA76.76.D47 B655 1999",
+		"collection-title": "The Addison-Wesley object technology series",
+		"event-place": "Reading Mass",
+		"ISBN": "978-0-201-57168-4",
+		"language": "en",
+		"number-of-pages": "482",
+		"publisher": "Addison-Wesley",
+		"publisher-place": "Reading Mass",
+		"source": "Library of Congress ISBN",
+		"title": "The unified modeling language user guide",
+		"author": [
+			{
+				"family": "Booch",
+				"given": "Grady"
+			},
+			{
+				"family": "Rumbaugh",
+				"given": "James"
+			},
+			{
+				"family": "Jacobson",
+				"given": "Ivar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/W2yZdvDF/items/R5BCDZCC",
+		"type": "book",
+		"call-number": "QA76.76.D47 B655 1999",
+		"collection-title": "The Addison-Wesley object technology series",
+		"event-place": "Reading Mass",
+		"ISBN": "978-0-201-57168-4",
+		"language": "en",
+		"number-of-pages": "482",
+		"publisher": "Addison-Wesley",
+		"publisher-place": "Reading Mass",
+		"source": "Library of Congress ISBN",
+		"title": "The unified modeling language user guide",
+		"author": [
+			{
+				"family": "Booch",
+				"given": "Grady"
+			},
+			{
+				"family": "Rumbaugh",
+				"given": "James"
+			},
+			{
+				"family": "Jacobson",
+				"given": "Ivar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
 				]
 			]
 		}
