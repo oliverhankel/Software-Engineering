@@ -88,7 +88,7 @@ Folgende Tools sind verwendet worden:
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
-    title       Kursfahrplan
+    title       Kursfahrplan NEEDS a rework :-)
     excludes    weekends
     %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
 
